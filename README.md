@@ -4,9 +4,9 @@ Believe or not, this is the most amazing CSS and HTML exercise I coded a while a
 
 An elegant, smooth and hypnotic CSS effect.
 
-I practiced here a lot of rotations, animations, gradients,shadows, borders, 3D perspective and a delightful styled design composition.
+I practiced here a lot of rotations, animations, gradients, shadows, borders, 3D perspective and a delightful styled design composition.
 
-Colorful HTML and CSS only code.
+A pretty nice HTML and CSS only code.
 
 This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=bqL4FqihRQg)
 
