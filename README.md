@@ -1,6 +1,6 @@
 ## Rotation Animation Effect
 
-Believe or not, this is the most amazing CSS and HTML exercise I coded a while ago.  It was so awesome for me that I decided learning more of CSS effects.
+Believe or not, this is the most transcendental CSS and HTML exercise that I ever coded. It was so awesome for me that I fall in love of CSS and decided to learn all I can of CSS effects.
 
 An elegant, smooth and hypnotic CSS effect.
 
